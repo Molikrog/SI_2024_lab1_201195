@@ -1,0 +1,16 @@
+git init - initialisation git in a direcrory
+
+git remote set-url master https://github.com/Molikrog/SI_2024_lab1_201195.git
+
+ $ git remote -v
+master  https://github.com/Molikrog/SI_2024_lab1_201195.git (fetch)
+master  https://github.com/Molikrog/SI_2024_lab1_201195.git (push)
+
+
+git add . - add all the untracked documents in the staged phase 
+
+git log - show previous initialisations and edits the local repository 
+
+git pull - pull from the remote repository
+
+git push -u master master - push from the master repository to the remote origin repository
