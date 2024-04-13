@@ -14,3 +14,7 @@ git log - show previous initialisations and edits the local repository
 git pull - pull from the remote repository
 
 git push -u master master - push from the master repository to the remote origin repository
+
+git status - gives the status of the files in my working directory
+
+
