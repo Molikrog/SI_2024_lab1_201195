@@ -9,12 +9,43 @@ master  https://github.com/Molikrog/SI_2024_lab1_201195.git (push)
 
 git add . - add all the untracked documents in the staged phase 
 
+git reset --hard/soft HEAD - reset untill the needed initialisation and depending on the kind of reset will the changes be fully removed or just put in a staged state
+
 git log - show previous initialisations and edits the local repository 
+
+git reflog - show the initialisations history and all the git commands used
 
 git pull - pull from the remote repository
 
 git push -u master master - push from the master repository to the remote origin repository
 
 git status - gives the status of the files in my working directory
+
+$ git merge bug1 
+Updating a96818d..c1906c2
+Fast-forward - merging the master and the bug1 with fast-forward
+
+git merge bug1 - merge it with the master branch
+
+git branch --merged bug1 - shows the branches of a repository and where are we currently, and checking all the branches 
+
+
+git push -u master bug1/bug2 - push from local to repo repository the branches
+
+git rebase master - to rebase from the branch that you are in into the main branch
+
+$ git rebase master
+warning: skipped previously applied commit 1335242
+hint: use --reapply-cherry-picks to include skipped commits
+hint: Disable this message with "git config advice.skippedCherryPicks false"
+Successfully rebased and updated refs/heads/bug2.
+
+ git merge bug2
+Updating 47e7a4e..e6683b6
+Fast-forward
+ SILab1Main.java | 11 ++++-------
+ SILab1_2.java   |  1 -
+ 2 files changed, 4 insertions(+), 8 deletions(-)
+
 
 

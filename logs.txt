@@ -1,0 +1,90 @@
+commit e6683b61fe8767659071c72ec0dd8ea8b90a2aae (HEAD -> master, master/master, bug2)
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 19:14:30 2024 +0200
+
+    some blank spaces fix
+
+commit 47e7a4e0a66b38de7e5cc94ed6ff97e04a0e93de
+Merge: c1906c2 d44266b
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 20:25:42 2024 +0200
+
+    Merge branch 'master' of https://github.com/Molikrog/SI_2024_lab1_201195
+
+commit c1906c2c04cf35788f07b08e11e4f83195d6dbd9 (master/bug1, bug1)
+Merge: a96818d 6025ffa
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 15:29:07 2024 +0200
+
+    Merge branch 'master' into bug1
+
+commit a96818d089f4bf554b98cde7217761ac57065a27
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 15:29:03 2024 +0200
+
+    New edits
+
+commit 98e6339aadcd894ba3abdbed31ecd6ea3e49458b
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 06:52:17 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 6025ffa99fa6b7ac4c0be2a8d848e7315fea1534
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 06:35:25 2024 +0200
+
+    some edits added
+
+commit 0e3c3cd07113a291bf635c7d1614f2c41c4d9674
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 06:34:03 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit d44266b3770fe2d6a8f5d1060b2846bc12049386
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 05:23:03 2024 +0200
+
+
+commit 47e7a4e0a66b38de7e5cc94ed6ff97e04a0e93de
+Merge: c1906c2 d44266b
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 20:25:42 2024 +0200
+
+    Merge branch 'master' of https://github.com/Molikrog/SI_2024_lab1_201195
+
+commit c1906c2c04cf35788f07b08e11e4f83195d6dbd9 (master/bug1, bug1)
+Merge: a96818d 6025ffa
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 15:29:07 2024 +0200
+
+    Merge branch 'master' into bug1
+
+commit a96818d089f4bf554b98cde7217761ac57065a27
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 15:29:03 2024 +0200
+
+    New edits
+
+commit 98e6339aadcd894ba3abdbed31ecd6ea3e49458b
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 06:52:17 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 6025ffa99fa6b7ac4c0be2a8d848e7315fea1534
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 06:35:25 2024 +0200
+
+    some edits added
+
+commit 0e3c3cd07113a291bf635c7d1614f2c41c4d9674
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 06:34:03 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit d44266b3770fe2d6a8f5d1060b2846bc12049386
+Author: Martin Simonoski <simonoskimartin68@gmail.com>
+Date:   Sat Apr 13 05:23:03 2024 +0200
